@@ -28,7 +28,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/task-management-system.git
+git clone https://github.com/izza12238/task-management-system.git
 cd task-management-system
 Compile the Java file:
 
